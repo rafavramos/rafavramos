@@ -17,7 +17,7 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 I'm a software engineer passionate about Artificial Intelligence, intelligent automation, and building technology-driven products that solve real-world problems.
 
